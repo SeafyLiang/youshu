@@ -9,9 +9,9 @@
 
 核心记账无需账号、无需自建服务器。数据保存在本机，你可以导出文件，也可以备份到自己的 WebDAV。
 
-<table><tr><td width="33%"><img src="docs/screenshots/01-flow-panda.png" alt="按日查看收支"></td><td width="33%"><img src="docs/screenshots/03-belongings-panda.png" alt="独立物品管理"></td><td width="33%"><img src="docs/screenshots/04-budget-panda.png" alt="预算分析"></td></tr><tr><td align="center">日常收支，一眼看清</td><td align="center">物品陪伴，心里有数</td><td align="center">预算进度，随时掌握</td></tr></table>
+<table><tr><td width="33%"><img src="docs/screenshots/01-flow-cat.png" alt="按日查看收支"></td><td width="33%"><img src="docs/screenshots/03-belongings-panda.png" alt="独立物品管理"></td><td width="33%"><img src="docs/screenshots/04-budget-panda.png" alt="预算分析"></td></tr><tr><td align="center">日常收支，一眼看清</td><td align="center">物品陪伴，心里有数</td><td align="center">预算进度，随时掌握</td></tr></table>
 
-<p align="center">0.8.3 界面 · 滚滚熊猫主题</p>
+<p align="center">0.8.3 实际界面 · 橘猫喵账 / 滚滚熊猫主题</p>
 
 ## 下载与体验
 
