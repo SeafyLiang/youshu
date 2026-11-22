@@ -1,0 +1,42 @@
+# 本地环境与凭据
+.env
+.env.*
+!.env.example
+.secrets/
+*.keystore
+*.jks
+key.properties
+*.mobileprovision
+*.p12
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.DS_Store
+# 构建与运行数据
+build/
+.dart_tool/
+.flutter-plugins-dependencies
+Pods/
+DerivedData/
+local.properties
+**/ephemeral/
+**/Flutter/Generated.xcconfig
+**/Flutter/flutter_export_environment.sh
+**/GeneratedPluginRegistrant.*
+data/
+*.sqlite*
+*.apk
+*.aab
+*.ipa
+*.app/
+*.dSYM/
+artifacts/
+
+.playwright-cli/
+artifacts-*.log
+
+# Apple 分发产物及签名回执原始日志
+*.xcarchive/
+*.p8
+*.xcdistributionlogs/

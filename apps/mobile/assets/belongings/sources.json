@@ -1,0 +1,115 @@
+{
+  "upstream_commit": "1ffb34c752ecf5d402f04cfb4b392c77f57c54bc",
+  "license": "MIT",
+  "assets": [
+    {
+      "id": "laptop",
+      "name": "Laptop",
+      "source": "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Laptop/3D/laptop_3d.png",
+      "file": "laptop.png"
+    },
+    {
+      "id": "mobile_phone",
+      "name": "Mobile phone",
+      "source": "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Mobile%20phone/3D/mobile_phone_3d.png",
+      "file": "mobile_phone.png"
+    },
+    {
+      "id": "headphone",
+      "name": "Headphone",
+      "source": "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Headphone/3D/headphone_3d.png",
+      "file": "headphone.png"
+    },
+    {
+      "id": "camera",
+      "name": "Camera",
+      "source": "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Camera/3D/camera_3d.png",
+      "file": "camera.png"
+    },
+    {
+      "id": "watch",
+      "name": "Watch",
+      "source": "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Watch/3D/watch_3d.png",
+      "file": "watch.png"
+    },
+    {
+      "id": "handbag",
+      "name": "Handbag",
+      "source": "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Handbag/3D/handbag_3d.png",
+      "file": "handbag.png"
+    },
+    {
+      "id": "running_shoe",
+      "name": "Running shoe",
+      "source": "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Running%20shoe/3D/running_shoe_3d.png",
+      "file": "running_shoe.png"
+    },
+    {
+      "id": "bicycle",
+      "name": "Bicycle",
+      "source": "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Bicycle/3D/bicycle_3d.png",
+      "file": "bicycle.png"
+    },
+    {
+      "id": "couch_and_lamp",
+      "name": "Couch and lamp",
+      "source": "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Couch%20and%20lamp/3D/couch_and_lamp_3d.png",
+      "file": "couch_and_lamp.png"
+    },
+    {
+      "id": "television",
+      "name": "Television",
+      "source": "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Television/3D/television_3d.png",
+      "file": "television.png"
+    },
+    {
+      "id": "video_game",
+      "name": "Video game",
+      "source": "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Video%20game/3D/video_game_3d.png",
+      "file": "video_game.png"
+    },
+    {
+      "id": "ring",
+      "name": "Ring",
+      "source": "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Ring/3D/ring_3d.png",
+      "file": "ring.png"
+    },
+    {
+      "id": "backpack",
+      "name": "Backpack",
+      "source": "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Backpack/3D/backpack_3d.png",
+      "file": "backpack.png"
+    },
+    {
+      "id": "lotion_bottle",
+      "name": "Lotion bottle",
+      "source": "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Lotion%20bottle/3D/lotion_bottle_3d.png",
+      "file": "lotion_bottle.png"
+    },
+    {
+      "id": "electric_plug",
+      "name": "Electric plug",
+      "source": "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Electric%20plug/3D/electric_plug_3d.png",
+      "file": "electric_plug.png"
+    },
+    {
+      "id": "keyboard",
+      "name": "Keyboard",
+      "source": "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Keyboard/3D/keyboard_3d.png",
+      "file": "keyboard.png"
+    },
+    {
+      "id": "motor_scooter",
+      "name": "Motor scooter",
+      "source": "https://raw.githubusercontent.com/microsoft/fluentui-emoji/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Motor%20scooter/3D/motor_scooter_3d.png",
+      "file": "motor_scooter.png"
+    },
+    {
+      "id": "washing_machine",
+      "name": "洗衣机",
+      "source": "本任务原创 SVG",
+      "file": "washing_machine.png"
+    }
+  ],
+  "rendering": "原型 SVG 中的 3D 全彩图标以不透明背景栅格化为 320×320 PNG；洗衣机为原创。"
+}
